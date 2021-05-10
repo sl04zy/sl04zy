@@ -1,4 +1,16 @@
-### Hi there 👋
+### :)
+
+Hi, I'm sl04zy. Yes i picked this name by using [ThisWordDoesNotExist](http://www.thisworddoesnotexist.com) but don't tell anyone.
+
+⚜My discord | Number7O9#8715
+⚜My Steam | [OhScorpion_](http://steamcommunity.com/id/ohscorpion_steamprofile)
+
+
+💬 You can ask me about **Anything**
+🌱 I’m currently trying to improve my *Python* skills and maybe *learn some C++*
+
+
+
 
 <!--
 **sl04zy/sl04zy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
