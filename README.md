@@ -1,13 +1,35 @@
 ### :)
 
-Hi, I'm sl04zy. Yes i picked this name by using [ThisWordDoesNotExist](http://www.thisworddoesnotexist.com) but don't tell anyone.
+Hi, I'm sl04zy.
+
+
 
 ⚜My discord | Number7O9#8715
+
 ⚜My Steam | [OhScorpion_](http://steamcommunity.com/id/ohscorpion_steamprofile)
 
+⚜My Telegram | @obs_recorder
 
 💬 You can ask me about **Anything**
+
+📫 You can reach me by sending me a DM on *discord* or *telegram*
+
 🌱 I’m currently trying to improve my *Python* skills and maybe *learn some C++*
+
+
+
+<!-- 
+![walter](https://github.com/sl04zy/sl04zy/blob/main/walter.mp4)
+![me](https://github.com/sl04zy/sl04zy/blob/main/Code.jpg)
+-->
+
+
+
+**Yes i picked this name by using [ThisWordDoesNotExist](http://www.thisworddoesnotexist.com) but don't tell anyone.**
+
+
+
+
 
 
 
