@@ -10,7 +10,7 @@ Hi, I'm sl04zy.
 
 ⚜My Telegram | @obs_recorder
 
-💬 You can ask me about **Anything**
+<!--💬 You can ask me about **Anything**-->
 
 📫 You can reach me by sending me a DM on *discord* or *telegram*
 
