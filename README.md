@@ -16,6 +16,7 @@ Hi, I'm sl04zy.
 
 🌱 I’m currently trying to improve my *Python* skills and maybe *learn some C++*
 
+![sl04zy's github stats](https://github-readme-stats.vercel.app/api?username=sl04zy)
 
 
 <!-- 
