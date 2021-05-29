@@ -1,28 +1,16 @@
-### :)
+### My infos
 
-Hi, I'm sl04zy.
-
-
-
-⚜My discord | Number7O9#8715
-
-⚜My Steam | [OhScorpion_](http://steamcommunity.com/id/ohscorpion_steamprofile)
 
 ⚜My Telegram | @obs_recorder
 
-<!--💬 You can ask me about **Anything**-->
+📫 You can reach me by sending me a DM on *telegram*
 
-📫 You can reach me by sending me a DM on *discord* or *telegram*
 
-🌱 I’m currently trying to improve my *Python* skills and maybe *learn some C++*
-
+## Stats
 ![sl04zy's github stats](https://github-readme-stats.vercel.app/api?username=sl04zy)
 
-
-<!-- 
-![walter](https://github.com/sl04zy/sl04zy/blob/main/walter.mp4)
-![me](https://github.com/sl04zy/sl04zy/blob/main/Code.jpg)
--->
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl04zy)](https://github.com/sl04zy/github-readme-stats)
 
 
 
@@ -31,8 +19,18 @@ Hi, I'm sl04zy.
 
 
 
+<!--
+💬 You can ask me about **Anything**
 
+📫 You can reach me by sending me a DM on *telegram*
 
+🌱 I’m currently trying to improve my *Python* skills and maybe *learn some C++*
+-->
+
+<!-- 
+![walter](https://github.com/sl04zy/sl04zy/blob/main/walter.mp4)
+![me](https://github.com/sl04zy/sl04zy/blob/main/Code.jpg)
+-->
 
 
 <!--
