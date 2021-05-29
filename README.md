@@ -6,10 +6,10 @@
 📫 You can reach me by sending me a DM on *telegram*
 
 
-## Stats
+# Stats
 ![sl04zy's github stats](https://github-readme-stats.vercel.app/api?username=sl04zy)
 
-## Top Languages
+# Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl04zy)](https://github.com/sl04zy/github-readme-stats)
 
 
