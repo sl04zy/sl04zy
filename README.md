@@ -15,7 +15,7 @@
 
 
 **Yes i picked this name by using [ThisWordDoesNotExist](http://www.thisworddoesnotexist.com) but don't tell anyone.**
-[Link](https://www.artstation.com/artwork/VgqLmb) to the profile picture
+**[Link](https://www.artstation.com/artwork/VgqLmb) to the profile picture.**
 
 
 
